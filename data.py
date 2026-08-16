@@ -8,7 +8,6 @@ products = [
     "nutriments": {
       "energy-kcal_100g": 24,
       "fat_100g": 1.1,
-      "saturated-fat_100g": 0.1,
       "carbohydrates_100g": 2.4,
       "sugars_100g": 2.4,
       "proteins_100g": 0.8,
@@ -26,7 +25,6 @@ products = [
      "nutriments": {
       "carbohydrates_100g": 80.0,
       "energy_100g": 1464,
-      "energy_value": 350,
       "fat_100g": 0.0,
       "proteins_100g": 5.0,
       "salt_100g": 0.03
@@ -42,17 +40,11 @@ products = [
      "ingredients_text": "Sugar, palm oil, hazelnuts, skimmed milk powder,cocoa, emulsifier, vanillin.",
      "nutriments": {
       "energy_100g": 2252,
-      "energy_serving": 338,
-      "energy_unit": "kcal",
       "fat_100g": 30.9,
-      "fat_serving": 4.6,
-      "fat_unit": "g",
-      "saturated-fat_100g": 10.6,
       "carbohydrates_100g": 57.5,
       "sugar_100g": 56.3,
       "proteins_100g": 6.3,
       "salt_100g": 0.107,
-      "sodium_100g": 0.0428
     }
   }
     }
