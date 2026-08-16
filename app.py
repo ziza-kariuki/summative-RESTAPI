@@ -100,3 +100,6 @@ def fetch_from_openfoodfacts(query):
                 return products_found[0]
                 
     return None
+
+if __name__ == '__main__':
+    app.run(debug=True)
