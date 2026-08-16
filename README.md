@@ -5,8 +5,8 @@ A RESTful Flask API integrated with external data from the OpenFoodFacts API for
 ## Features
 * **Product Registration**: Create new product profiles
 * **Data Storage**: All product info is stored locally for future reference
-* **Data retrieval**: App is connected to OpenFoodFcats api to get specific data from their database
-* **User Interface**: Users can interact with routes through a command line interface
+* **Data Retrieval**: App is connected to OpenFoodFcats api to get specific data from their database
+* **User Interface**: Users can interact with routes through a command-line interface
 * **Automated Testing**:Local tests are available to verify the functionality of the code with further updates
 
 
@@ -17,16 +17,16 @@ A RESTful Flask API integrated with external data from the OpenFoodFacts API for
 git clone <https://github.com/ziza-kariuki/summative-RESTAPI/blob/main>
 cd summative-RESTAPI
 ```
-2.Set up and activate a virtual environment:
+2. Set up and activate a virtual environment:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
-3.Install dependencies:
+3. Install dependencies:
 ```bash
 pip install flask requests pytest
 ```
-4.Run the Flask server:
+4. Run the Flask server:
 ```bash
 python3 app.py
 ```
@@ -36,7 +36,7 @@ python3 app.py
 ```bash
 python3 cli.py
 ```
-2.View inventory: Fetch and list all items currently in stock:
+2. View inventory: Fetch and list all items currently in stock:
 ```text
 Select an option (1-6): 1
 
@@ -46,7 +46,7 @@ ID: 102 | Product: Rice Noodles
 
 ```
 
-3.Search OpenFoodFacts:
+3. Search OpenFoodFacts:
 ```text
 Select an option (1-6): 2
 Enter barcode or product name: 737628064502
