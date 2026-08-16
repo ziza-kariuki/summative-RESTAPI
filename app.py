@@ -73,7 +73,6 @@ def delete_item(item_id):
 
 
 
-
 def fetch_from_openfoodfacts(query):
     headers = {'User-Agent': 'MyFlaskInventoryApp - LearningProject - Version 1.0'}
     
@@ -115,7 +114,5 @@ def get_external_product(query):
 
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
 if __name__ == '__main__':
     app.run(debug=True)

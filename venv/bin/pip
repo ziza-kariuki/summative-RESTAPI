@@ -1,4 +1,4 @@
-#!/home/user_ziza/module-5/full-crud-api-lab/summative-RESTAPI/venv/bin/python3
+#!/home/user_ziza/module-5/summative-RESTAPI/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

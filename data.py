@@ -3,7 +3,7 @@ products = [
      "status": 1,
      "product": {
      "product_name": "Organic Almond Milk",
-     "brand_name": "Silk",
+     "brands": "Silk",
      "ingredients_text": "Filtered water, almonds, cane sugar, salt.",
     "nutriments": {
       "energy-kcal_100g": 24,
